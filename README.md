@@ -23,7 +23,11 @@ here is the video please check :-
 
 and here are the screenshots: -
 
-<img width="363" alt="Screenshot 2025-01-17 at 4 04 57 PM" src="https://github.com/user-attachments/assets/4cacc1fc-6375-47fb-9fad-101cafc1aec0" />
-![Simulator Screenshot - iPhone 16 Pro - 2025-01-18 at 03 01 53](https://github.com/user-attachments/assets/d1061a54-7800-42cf-9714-4cd5298b5607)
-![Simulator Screenshot - iPhone 16 Pro - 2025-01-18 at 03 01 56](https://github.com/user-attachments/assets/57486173-11c4-49aa-b81b-4dcb9e8e8507)
-![Simulator Screenshot - iPhone 16 Pro - 2025-01-18 at 03 02 02](https://github.com/user-attachments/assets/b6d23f9a-8e5a-4b22-9c8e-463ea68cf132)
+
+<img width="363" alt="Screenshot 2025-01-17 at 4 04 57 PM" src="https://github.com/user-attachments/assets/54f6deeb-7114-4f39-aa2d-21afa68ab9b0" />
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-01-18 at 03 01 53](https://github.com/user-attachments/assets/5c6daa8d-6fba-46f7-bb08-836f883ff6c6)
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-01-18 at 03 01 56](https://github.com/user-attachments/assets/9630af6b-c331-442d-a822-5cb2ba342db5)
+
+
